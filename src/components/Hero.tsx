@@ -1,7 +1,7 @@
 'use client';
 
 import { Canvas } from '@react-three/fiber';
-import { OrbitControls, Text, Float, MeshDistortMaterial } from '@react-three/drei';
+import { OrbitControls, Float, MeshDistortMaterial } from '@react-three/drei';
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 import { useRef } from 'react';
